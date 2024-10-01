@@ -1,4 +1,4 @@
-class YourApp < Formula
+class VCB < Formula
     name "VCB"
     desc "like obs"
     homepage "https://github.com/VCBSstudio/VCB"
