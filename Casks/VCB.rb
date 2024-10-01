@@ -12,7 +12,7 @@
   
     # 可选的卸载脚本或后处理
     zap trash: [
-      "~/Library/Preferences/com.your_company.vcb.plist",
+      "~/Library/Preferences/com.helinyu.vcb.plist",
       "~/Library/Application Support/VCB",
     ]
   end
