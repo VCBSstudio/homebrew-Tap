@@ -14,6 +14,10 @@ class YourApp < Formula
     #   depends_on macos: ">= :monterey"
     
       app "VCB.app"
+
+      def install
+        bin.install "VCB"  # 确保这部分正确
+      end
     
     #   zap trash: [
     #     "~/Library/HTTPStorages/com.lihaoyun6.QuickRecorder",
