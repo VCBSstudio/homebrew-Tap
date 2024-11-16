@@ -1,8 +1,8 @@
 
   cask "screencut" do
-    version "1.0.5"  # 软件版本
-    sha256 "222541af75185bd2a50a7c06188a701dbb0aeeede75dd983f5d0093c9e2674e7"  # .dmg 文件的 SHA256 校验和
-    url "https://github.com/VCBSstudio/ScreenCut/releases/download/1.0.5/ScreenCut.1.0.5.dmg"  # 你托管 screencut.dmg 的网址
+    version "1.0.6"  # 软件版本
+    sha256 "0b90163619ff8e537295ea1adbd7e00f46fab7ee79321f4fce25113c1ca8e256"  # .dmg 文件的 SHA256 校验和
+    url "https://github.com/VCBSstudio/ScreenCut/releases/download/1.0.6/ScreenCut.dmg"  # 你托管 screencut.dmg 的网址
     name "ScreenCut"
     desc "一个mac上的轻量级截图工具"
     homepage "https://github.com/VCBSstudio/ScreenCut"
